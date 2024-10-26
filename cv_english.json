@@ -205,17 +205,6 @@
         "Gitlab"
       ],
       "url": "https://media.licdn.com/dms/image/v2/D4D2DAQEGRF02EDsnwA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1713713476974?e=1730588400&v=beta&t=nlJbcWRrvH5YoykV_Gz0BE-uMxrs306g4E9n_lQxlAA"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
     }
   ]
 }
