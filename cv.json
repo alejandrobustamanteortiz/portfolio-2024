@@ -183,7 +183,7 @@
     {
       "name": "Mulesoft Developer Level I",
       "isActive": true,
-      "description": "This certification recognizes that the developer has the knowledge and skills to design, build, test, debug, deploy, and manage basic APIs and integrations using Anypoint Platform and Studio",
+      "description": "Esta certificación reconoce que el desarrollador tiene los conocimientos y habilidades para diseñar, construir, probar, depurar, desplegar y gestionar APIs e integraciones básicas usando Anypoint Platform y Studio.",
       "highlights": [
         "Anypoint Platform",
         "AnyPoint Studio",
